@@ -1034,7 +1034,7 @@ span.sidetext {
             transition: background-image 0.5s ease;
         }
         .logomain-slider {
-            height: 54vh;
+            height: 80vh;
             width: 100%;
             background-color: black;
             padding-top: 5rem;
